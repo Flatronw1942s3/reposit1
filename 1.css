@@ -1,0 +1,25 @@
+.inner_copy, .inner_copy a {border:0;float:right;background:#fff;color:#f00;width:50%;line-height:10px;font-size:10px;margin:-220% 0 0 0;overflow:hidden;padding:0}
+* {color:#000;text-decoration:none}
+body {color:#333;margin:20px 0;text-align:center;}
+.gfx a {background-image: url(1.png); ;display:block;height:60px;font-weight: 900}
+.center {text-align:center}
+
+.header {background:#FFF;border-bottom:1px solid #E5E5E5;}
+-
+.main {background:#FFF;border:3px;border-color:#E4E4E4 #CFCFCF #CCC #CFCFCF;margin:20px auto 4px auto;text-align:left;width:620px}
+.container {margin:10px}
+
+.menu a {background-image: url(1.png);border-right:1px solid #CECECE;border-top:1px solid #E5E5E5;color:#888;float:left;padding-top:4px;width:149px;height:62px;}
+.menu a span {padding-left:6px}
+.menu a:hover {background:#EEE  repeat-x;color:#555}
+
+.content {background-image: url(1.png);border-top:1px solid #E5E5E5;clear:both}
+.content h1 {background-image: url(1.png);margin:0;font:bold 1.1em sans-serif,Arial;color:#666}
+.content p {background-image: url(1.png);margin:3px 0 6px;color:#666}
+.item {background-image: url(1.png);padding:10px}
+
+.footer {padding:5px;background-image: url(1.png);color:#666}
+.footer .left, .footer .right {padding:0 12px}
+.footer .right, .footer .right a {color:#AAA}
+.footer .right a:hover {color:#444}
+
